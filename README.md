@@ -163,7 +163,7 @@ As an open source repository, anyone beyond these teams is very welcome to reuse
 📫 Contact
 ---
 
-For any queries or concerns, you can directly reach out to Vicky Hellon by emailing [vhellonn@turing.ac.uk](mailto:vhellon@turing.ac.uk).
+For any queries or concerns, you can directly reach out to Vicky Hellon by emailing [vhellon@turing.ac.uk](mailto:vhellon@turing.ac.uk).
 
 ♻️ License
 ---
