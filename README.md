@@ -130,7 +130,8 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 **Maintainers**
 
-This repository has been set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
+This repository has been set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute. 
+Vicky Hellon, Research Community Manager for the Turing-Roche partnership is maintaining this template in the Turing-Roche GitHub Organisation.
 
 As an open source repository, anyone beyond these teams is very welcome to reuse this template for setting up their projects.
 
@@ -162,7 +163,7 @@ As an open source repository, anyone beyond these teams is very welcome to reuse
 📫 Contact
 ---
 
-For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+For any queries or concerns, you can directly reach out to Vicky Hellon by emailing [vhellonn@turing.ac.uk](mailto:vhellon@turing.ac.uk).
 
 ♻️ License
 ---
